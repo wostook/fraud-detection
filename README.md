@@ -1,10 +1,10 @@
 # Credit Card fraud detection
 ![image](https://github.com/wostook/fraud-detection/blob/master/data/CC.JPG)
-In a project I used Kaggle Credit Card dataset containing transactions made by credit card in September 2013 by European cardholders. It shows transactions that took place in two days, where we have 492 frauds out of 284,807 transactions. The following project is a try to build best model to catch fraudulent transaction, showing reasonable trade-of between performance and computational efficiency.
+In a project I used Kaggle Credit Card dataset containing transactions made by credit card in September 2013 by European cardholders. It shows transactions that took place in two days, where we have 492 frauds out of 284,807 transactions. The following project is a try to build best model to catch fraudulent transaction, showing reasonable trade-off between performance and computational efficiency.
 
 ## Motivation 
 
-Fraud losses worldwide are estimated to reach $32 billion in 2020 and are projected to gradually rise to in the next years. Since ability to recognize fraudulent card transactions is undeniably extremely important, machine learning might come in handy. Is seems to be perfect fit-for purpose application. 
+Fraud losses worldwide are estimated to reach $32 billion in 2020 and are projected to gradually rise to in the next years. Since ability to recognize fraudulent card transactions is undeniably extremely important, machine learning might come in handy. Is seems to be perfect fit for purpose application. 
 
 Another thing is class imbalance, it'sa good opportunity to test different techniques and perhaps challenge interpretation techniques and metrics commonly used for classification tasks. 
 
